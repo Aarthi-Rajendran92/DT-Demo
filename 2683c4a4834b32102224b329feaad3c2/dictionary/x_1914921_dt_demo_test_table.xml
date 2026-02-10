@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="a21504a8834b32102224b329feaad33f" label="Test Table" max_length="40" name="x_1914921_dt_demo_test_table" type="collection">
-        <element label="DT Test 1" max_length="1000" name="dt_test_1" type="string"/>
+        <element label="DT Test One Aarthi" max_length="1000" name="dt_test_1" type="string"/>
         <element label="DT Test" max_length="1000" name="dt_test" type="string"/>
     </element>
 </database>
